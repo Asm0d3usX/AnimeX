@@ -1,9 +1,0 @@
-{
-  "name": "AnimeX",
-  "description": "🇮🇩 Indonesian Anime Repository for CloudStream",
-  "iconUrl": "https://i.ibb.co/q3YkdNRv/asm0d3usx.png",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/plugins.json"
-  ]
-}
