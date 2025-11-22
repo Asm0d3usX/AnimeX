@@ -30,6 +30,21 @@
     "name": "AnimeSail"
   },
   {
+    "iconUrl": "https://anoboy.be/wp-content/uploads/2024/03/cropped-cropped-favicon-anoboych-32x32-1-270x270.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
+    "fileSize": 16993,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "version": 1,
+    "internalName": "Anoboy",
+    "description": "🎭 Anime Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Anoboy.cs3",
+    "name": "Anoboy"
+  },
+  {
     "iconUrl": "https://backapi.oploverz.ac/uploads/settings/website/favicons/3161ce4d-ce90-4d07-b019-57bf64a9594e.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
