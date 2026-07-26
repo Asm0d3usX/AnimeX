@@ -1,18 +1,18 @@
 [
   {
-    "iconUrl": "https://donghub.vip/wp-content/uploads/2026/04/Donghub-Baru.png",
+    "iconUrl": "https://donghuastream.org/wp-content/uploads/2023/05/cropped-Donghua-Stream-scaled-1-270x270.jpeg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
-    "fileSize": 23025,
+    "fileSize": 24095,
     "status": 1,
-    "language": "id",
+    "language": "cn",
     "authors": ["Asm0d3usX"],
     "tvTypes": ["AnimeMovie", "OVA", "Anime"],
     "version": 1,
-    "internalName": "Donghua",
+    "internalName": "Donghuastream",
     "description": "🎭 Donghua Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Donghua.cs3",
-    "name": "Donghua"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/AnimeX/builds/Donghuastream.cs3",
+    "name": "Donghuastream"
   },
   {
     "iconUrl": "https://otakudesu.best/wp-content/uploads/2017/06/Logo-1.png",
@@ -30,7 +30,7 @@
     "name": "Otakudesu"
   },
   {
-    "iconUrl": "https://v1.samehadaku.how/wp-content/uploads/2020/04/cropped-download-1-32x32.jpg",
+    "iconUrl": "https://samehadaku.care/wp-content/uploads/2023/07/Samehadaku-Logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/AnimeX",
     "fileSize": 17282,
